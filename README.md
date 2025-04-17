@@ -36,9 +36,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
  
----
-![Snake animation](https://github.com/Matheussansao/Matheussansao/blob/output/github-contribution-grid-snake.svg)
----
 <p align="center">
   🌱 <i>“Em construção… assim como cada linha do meu aprendizado.”</i>
 </p>
