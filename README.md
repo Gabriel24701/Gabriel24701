@@ -5,7 +5,7 @@
 <h1 align="center">Olá! 👋 Seja bem-vindo(a) ao meu GitHub</h1>
 
 <div align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas at FIAP</strong><br>
   🚀 Em busca de oportunidades para crescer e colaborar com projetos reais<br>
   ✨ Entusiasta da criatividade, códigos bem feitos e conexões verdadeiras
 </div>
