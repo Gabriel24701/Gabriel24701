@@ -17,7 +17,6 @@
  
 <div align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  💻 Explorando <strong>Python</strong>, <strong>Java</strong>
   🚀 Em busca de oportunidades para crescer e colaborar com projetos reais<br>
   ✨ Entusiasta da criatividade, códigos bem feitos e conexões verdadeiras
 </div>
