@@ -45,10 +45,10 @@
 ### 📫 Contato
 
 <div align="center">
-  <a href="mailto:gabrielbebesilva247@mail.com">
+  <a href="mailto:gabrielbebesilva247@mail.com" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-bebé-298815238/">
+  <a href="https://www.linkedin.com/in/gabriel-bebé-298815238/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
 </div>
