@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
 </div>
 
-<h1 align="center">Hi there! 👋 Welcome to my GitHub profile</h1>
+<h1 align="center">Hi there! 👋 I'm Gabriel — Future Dev & Problem Solver</h1>
 
-<div align="center">
-  🎓 I'm currently studying <strong>Systems Analysis and Development at FIAP</strong><br>
+
+<p align="center">
+  🎓 Studying <strong>Systems Analysis and Development at FIAP</strong><br>
   🚀 Passionate about technology and eager to grow through real-world challenges<br>
-  💡 Enthusiastic about clean code, creative solutions, and meaningful collaborations
-</div>
+  💡 Lover of clean code, creative solutions, and meaningful collaborations
+</p>
+
 
 ---
 
@@ -37,14 +39,15 @@
 ### 🌟 Featured Projects
 
 - 🎧 [Accessible Text Reader](https://github.com/Gabriel24701/projeto_acessibilidade) – A simple yet impactful project focused on digital accessibility  
-- 📘 *More exciting projects coming soon!*
+- 🧠 [Dev Life API](https://github.com/Gabriel24701/dev-life-api) – A REST API to track habits, courses and tasks using FastAPI
+
 
 ---
 
 ### 📬 Let's Connect!
 
 <div align="center">
-  <a href="mailto:gabrielbebesilva247@mail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:gabrielbebesilva247@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-bebé-298815238/" target="_blank" rel="noopener noreferrer">
