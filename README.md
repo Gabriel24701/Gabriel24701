@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align='center'>💻 Tech Stack</h2>
+<h2 align='center'> Tech Stack</h2>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align='center'>📊 GitHub Stats</h2>
+<h2 align='center'> GitHub Stats</h2>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel24701&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00"/>
