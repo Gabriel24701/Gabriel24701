@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
-</div>
-
-<h1 align="center">Hi there! 👋 I'm Gabriel — Future Dev & Problem Solver</h1>
-
+<h1 align="center">About me</h1>
 
 <p align="center">
   🎓 Studying <strong>Systems Analysis and Development at FIAP</strong><br>
@@ -12,39 +7,50 @@
 </p>
 
 
----
+<h2 align='center'>💻 Tech Stack</h2>
 
-### 🛠️ Currently Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/MySQL-4DB33D?style=for-the-badge&logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+<br>
+
+<div align='center'>
+  <!-- Front-End -->
+  <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45em">
+  <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45em">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45em">
+  
+  <!-- Back-End -->
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45em">
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45em">
+  
+  <!-- Databases -->
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45em">
+  <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45em">
 </div>
 
 ---
 
-### 📈 GitHub Stats
+<h2 align='center'>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel24701&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel24701&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel24701&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel24701&layout=compact&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00"/>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-### 🌟 Featured Projects
-
-- 🎧 [Accessible Text Reader](https://github.com/Gabriel24701/projeto_acessibilidade) – A simple yet impactful project focused on digital accessibility  
-- 🧠 [Dev Life API](https://github.com/Gabriel24701/dev-life-api) – A REST API to track habits, courses and tasks using FastAPI
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=&fontColor=ffffff"/>
 
 ---
 
-### 📬 Let's Connect!
+<h2 align="center">📬 Let's Connect!</h2>
 
 <div align="center">
   <a href="mailto:gabrielbebesilva247@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -54,11 +60,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
 </div>
-
----
-
-<p align="center">🧠 “Learning means reinventing yourself every single day.”</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel24701&color=blue" alt="Gabriel24701" />
-</p>
