@@ -51,9 +51,3 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=&fontColor=ffffff"/>
 
 ---
-
-<h2 align="center">📬 Contato</h2>
-
-<div align="center">
-  <a href="mailto:gabrielbebesilva247@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shiel
