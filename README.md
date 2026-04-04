@@ -28,13 +28,4 @@
 
 ---
 
-<h2 align='center'>📈 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel24701&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Gabriel"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel24701&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&text=&fontColor=ffffff"/>
