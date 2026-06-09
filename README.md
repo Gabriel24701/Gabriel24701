@@ -1,15 +1,15 @@
-<h1 align="center">🚀 Sobre mim</h1>
+<h1 align="center"> Sobre mim</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong><br>
-  💼 Estagiário em <strong>Transformação Digital (DevOps | Infraestrutura)</strong> na Vivo<br>
-  🧠 Focado em <strong>automação, monitoramento e integração de sistemas</strong><br>
-  💡 Motivado por desafios que unem tecnologia, eficiência e aprendizado contínuo
+   Estudante de <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong><br>
+   Estagiário em <strong>Transformação Digital (DevOps | Infraestrutura)</strong> na Vivo<br>
+   Focado em <strong>automação, monitoramento e integração de sistemas</strong><br>
+   Motivado por desafios que unem tecnologia, eficiência e aprendizado contínuo
 </p>
 
 ---
 
-<h2 align='center'>🛠️ Stack Técnica</h2>
+<h2 align='center'> Stack Técnica</h2>
 
 <br>
 
